@@ -2,6 +2,25 @@
 
 A full-stack Todo application built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
+## Screenshots & Demo
+
+### Demo Video
+[📹 Watch Demo Video](https://drive.google.com/file/d/1VXkRQlkTgNsguHIJTLSR2ieuelFNrEVN/view?usp=sharing)
+
+### Application Screenshots
+
+#### Dark Theme
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/subu0106/Stock-Market-Dashboard/main/assets/DT-1.png" alt="Dark Theme View 1" width="45%">
+</div>
+
+####  Light Theme
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/subu0106/Stock-Market-Dashboard/main/assets/LT-1.png" alt="Light Theme View 1" width="45%">
+</div>
+
 ## Features
 
 - Full CRUD operations (Create, Read, Update, Delete)
