@@ -1,9 +1,11 @@
 import Todo from './Todo';
+import { ThemeProvider } from './ThemeContext';
+
 function App() {
   return (
-    <div className="App">
-      <Todo/>
-    </div>
+    <ThemeProvider>
+      <Todo />
+    </ThemeProvider>
   );
 }
 
